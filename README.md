@@ -12,8 +12,8 @@ Include the following javascript in the end of your body.
 
 Add the `data-event` and `data-params` (optional) attributes to the elements that you want to dispatch the events.
 
-`data-event` specifies the event that GTM should received e.g. `lead`
-`data-params`specifies additional parameters to be sent along with the event. **This is optional**
+`data-event` specifies the event that GTM should received e.g. `lead`.
+ `data-params`specifies additional parameters to be sent along with the event. **This is optional**
 
 **Below are some examples on how to use the attributes.**
 
